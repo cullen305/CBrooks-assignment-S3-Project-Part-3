@@ -1,0 +1,35 @@
+@charset "UTF-8";
+h1, h3, p {
+	text-align: center;
+}
+#main {
+	width: 75%;
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+footer {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 60px;
+	background-color: #383838;
+	color: #F5F5F5;
+	text-align: center;
+}
+.navbar.navbar-default {
+	border-width: 0px;
+	border-radius: 0px;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+}
+.image-fill {
+	width: 100%;
+}
+#wrapper {
+	padding-left: 0px;
+	padding-right: 0px;
+	/* [disabled]padding-top: 0px; */
+	/* [disabled]padding-bottom: 0px; */
+}
